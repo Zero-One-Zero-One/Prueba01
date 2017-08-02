@@ -30,5 +30,7 @@ public class UsersController {
         return userJpaRespository.findByName(users.getName());
     }
 }
+
 // Conflicto 1
 // conflicto 3
+// Conflicto 2
